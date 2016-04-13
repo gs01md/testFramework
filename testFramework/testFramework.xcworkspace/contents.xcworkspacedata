@@ -2,9 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:testProject.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:testFramework.xcodeproj">
    </FileRef>
    <FileRef
