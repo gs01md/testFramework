@@ -155,6 +155,7 @@
 				TargetAttributes = {
 					F42434F01CBB988E001CB29C = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 8SN9TJYA97;
 					};
 				};
 			};
@@ -359,6 +360,7 @@
 			baseConfigurationReference = 5F1C18246877532BB5C49D97 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8SN9TJYA97;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -377,6 +379,7 @@
 			baseConfigurationReference = 340BEE76B45EAEEE49CCF54B /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8SN9TJYA97;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
